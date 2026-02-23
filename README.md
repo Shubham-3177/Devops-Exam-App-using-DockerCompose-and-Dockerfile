@@ -36,7 +36,7 @@ docker-compose --version
 # 📥 2. Clone the Repository
 
 ```bash
-git clone https://github.com/VedTambe/Devops-Exam-App.git
+git clone https://github.com/Shubham-3177/Devops-Exam-App--Docker_compose-Dockerfile-.git
 cd Devops-Exam-App
 ```
 
