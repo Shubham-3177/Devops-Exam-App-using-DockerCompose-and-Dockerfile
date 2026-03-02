@@ -10,7 +10,7 @@ pipeline {
         stage("Git Clone") {
             steps {
                 echo "Cloning project from GitHub..."
-                git url: "https://github.com/VedTambe/Devops-Exam-App.git", branch: "main"
+                git url: "https://github.com/Shubham-3177/Devops-Exam-App-using-DockerCompose-and-Dockerfile.git", branch: "main"
             }
         }
 
