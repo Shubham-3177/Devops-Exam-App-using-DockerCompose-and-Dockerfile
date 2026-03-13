@@ -1,5 +1,7 @@
 pipeline {
-    agent any
+    agent {
+        label 'dev'
+    }
 
     environment {
         COMPOSE_PROJECT_NAME = "exam-app-project"
